@@ -91,6 +91,75 @@
       button.carousel-control-next(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='next')
         span.carousel-control-next-icon(aria-hidden='true')
         span.visually-hidden Next
+    .row.mb-5
+      .col-lg-3
+        .tarjeta.color-primario.tarjetas-zoom.h-100
+          .contenedo-imagen-hover
+            img(src='@/assets/curso/img23.jpg', alt='Texto que describa la imagen')
+          .p-4.m-4
+            h4 Simples
+            p Son tomadas en un tiempo y lugar determinado para su análisis individual.
+      .col-lg-3
+        .tarjeta.color-primario.tarjetas-zoom.h-100
+          .contenedo-imagen-hover
+            img(src='@/assets/curso/img24.jpg', alt='Texto que describa la imagen')
+          .p-4.m-4
+            h4 Compuestas
+            p Son obtenidas por mezclas y homogeneización de muestras simples que fueron recogidas en el mismo punto, pero en tiempos diferentes.
+      .col-lg-3
+        .tarjeta.color-primario.tarjetas-zoom.h-100
+          .contenedo-imagen-hover
+            img(src='@/assets/curso/img25.jpg', alt='Texto que describa la imagen')
+          .p-4.m-4
+            h4 Muestras integradas 
+            p Se obtienen de la mezcla y homogeneización de muestras simples que fueron obtenidos en diferentes puntos pero simultáneamente.
+      .col-lg-3
+        .tarjeta.color-primario.tarjetas-zoom.h-100
+          .contenedo-imagen-hover
+            img(src='@/assets/curso/img26.jpg', alt='Texto que describa la imagen')
+          .p-4.m-4
+            p Las muestras de agua que serán utilizadas para exámenes microbiológicos deben ser muestras simples, de modo que la muestra sea la obtenida en el punto de muestreo. 
+    p.mb-5 Existen diferentes técnicas de muestreo y estas se dividen en las que son tomadas directamente en la botella o el recipiente que se va a enviar al laboratorio, y aquellas que se recolectan mediante el uso de equipos. A continuación, se conocerán las técnicas utilizadas según los puntos de muestreo. 
+    TabsC.color-acento-contenido.mb-5
+      .py-3.py-md-4(titulo="Grifos")
+        .row
+          .col-md-6
+            figure
+              img(src='@/assets/curso/img27.jpg', alt='Texto que describa la imagen')
+          .col-md-6.mb-4.mb-md-0
+            h4 Grifos
+            p Se deben retirar los filtros y demás accesorios, posteriormente se limpia el grifo con agua o con alcohol, con el grifo cerrado este se flamea, antes de tomar la muestra se deja fluir el agua al menos 5 minutos, se destapa el frasco sin tocar la boca ni el interior del tapón y se procede a llenarlo y cerrándose a continuación.
+      .py-3.py-md-4(titulo="Pozos y depósitos")
+        .row
+          .col-md-6
+            figure
+              img(src='@/assets/curso/img28.jpg', alt='Texto que describa la imagen')
+          .col-md-6.mb-4.mb-md-0
+            h4 Pozos y depósitos
+            p Se introduce en el agua el frasco de muestreo sostenido con una cuerda y se toma la muestra tras haber agitado la superficie.
+      .py-3.py-md-4(titulo="Lagos y ríos")
+        .row
+          .col-md-6
+            figure
+              img(src='@/assets/curso/img29.jpg', alt='Texto que describa la imagen')
+          .col-md-6.mb-4.mb-md-0
+            h4 Lagos y ríos
+            p Se deben tener en cuenta factores como la profundidad, el caudal, la distancia a la orilla, entre otros. La muestra se debe tomar lo más lejos posible de la orilla, sin remover el fondo y se deben evitar las zonas de estancamiento.
+      .py-3.py-md-4(titulo="Piscinas")
+        .row
+          .col-md-6
+            figure
+              img(src='@/assets/curso/img30.jpg', alt='Texto que describa la imagen')
+          .col-md-6.mb-4.mb-md-0
+            h4 Piscinas
+            p La muestra se realiza en puntos en los que se sospeche una más lenta renovación o cualquier otra posible causa de deterioro.
+
+
+
+
+
+
+
 
 </template>
 
@@ -114,4 +183,14 @@ export default {
 <style lang="sass" scoped>
 button:hover
   background-color: $color-acento-contenido
+.tarjetas-zoom
+  overflow: hidden
+  .contenedo-imagen-hover
+    overflow: hidden
+    img
+      transition: transform .5s ease-in-out
+  &:hover
+    .contenedo-imagen-hover
+      img
+        transform: scale(1.2)
 </style>
