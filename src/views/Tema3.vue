@@ -91,6 +91,7 @@
       button.carousel-control-next(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='next')
         span.carousel-control-next-icon(aria-hidden='true')
         span.visually-hidden Next
+    p.mb-5 Además de precisar las técnicas para el monitoreo del agua, es importante tener en cuenta que existen tres tipos de muestras fundamentales, a saber: 
     .row.mb-5
       .col-lg-3
         .tarjeta.color-primario.tarjetas-zoom.h-100
@@ -184,6 +185,8 @@ export default {
 button:hover
   background-color: $color-acento-contenido
 .tarjetas-zoom
+  p, h2, h3, h4, h5, h6
+    color: $color-sistema-texto !important
   overflow: hidden
   .contenedo-imagen-hover
     overflow: hidden

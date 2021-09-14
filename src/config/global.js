@@ -203,7 +203,7 @@ export default {
     {
       termino: 'Tipos de coordenadas',
       significado:
-        'los sistemas de coordenadas horizontales pueden ser de tres tipos, geográficas. proyectadas y locales, mientras que los sistemas de coordenadas verticales localizan la altura o la profundidad de los datos.',
+        'los sistemas de coordenadas horizontales pueden ser de tres tipos, geográficas, proyectadas y locales, mientras que los sistemas de coordenadas verticales localizan la altura o la profundidad de los datos.',
     },
   ],
   complementario: [
@@ -356,7 +356,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Magdi Khalifah Gamboa ',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

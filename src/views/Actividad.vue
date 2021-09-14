@@ -10,8 +10,8 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Actividad didáctica 1
-        p.mb-4 De acuerdo con los conceptos emitidos sobre los protocolos de monitoreo de agua y los sistemas de coordenadas., relacione las letras en las casillas que corresponda a la definición citada y luego haga clic en el botón Enviar para validar su resultado.
+          h2 Emparejamiento entre término y definición
+        p.mb-4 Afianzar algunos de los conceptos más importantes en el desarrollo de protocolo y muestra de agua.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
@@ -28,8 +28,8 @@
             img(src="@/assets/template/completar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Actividad didáctica 2
-        p.mb-4 De acuerdo con los conceptos emitidos sobre el desarrollo de protocolo y muestra de agua, relacione las letras en las casillas que corresponda a la definición citada y luego haga clic en el botón Enviar para validar su resultado.
+          h2 Unir conceptos 
+        p.mb-4 Afianzar algunos de los conceptos sobre los protocolos de monitoreo de agua y los sistemas de coordenadas.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

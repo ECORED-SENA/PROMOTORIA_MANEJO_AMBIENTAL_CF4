@@ -183,5 +183,5 @@ export default {
   img
     width: 120px !important
 .tarjeta-avatar-b .tarjeta
-  background-color: #E8F6DB !important
+  background-color: #C3E6E0 !important
 </style>

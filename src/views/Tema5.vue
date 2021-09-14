@@ -29,20 +29,26 @@
           ul.lista-ul--color
             li 
               i.fas.fa-check
-              | DD — Decimal Degree (grados polares):
-              br
-              |ej. 49.500-123.500.
+              p DD — decimal    
+                span.fst-italic Degree  
+                |(grados polares):
+                br
+                |ej. 49.500-123.500.
 
             li 
               i.fas.fa-check
-              | DM — Degree: Minute (grados:minutos): 
-              br
-              |ej. 49:30.0-123:30.0.
+              p DM — 
+                spam.fst-italic Degree: Minute 
+                |(grados:minutos): 
+                br
+                |ej. 49:30.0-123:30.0.
             li 
               i.fas.fa-check
-              | DMS — Degree: Minute:Second (grados: minutos:segundos):
-              br
-              |ej. 49:30:00-123:30:00.
+              p DMS — 
+                spam.fst-italic Degree:Minute:Second 
+                | (grados: minutos:segundos):
+                br
+                |ej. 49:30:00-123:30:00.
               
 
       .col-md-5.col-xl-5.mb-4.mb-xl-0
@@ -83,7 +89,7 @@ export default {
 <style lang="sass" scoped>
 .cajon-x
   position: relative
-  background-color: #FFF8C6
+  background-color: #C2E4FC
   &::after
 
     opacity: 1
@@ -94,7 +100,7 @@ export default {
     position: absolute
     bottom: 0
     right: 0
-    background-color: #FDE947
+    background-color: #7AE582
     transform: translateY(50%)
     z-index: 1
     @media (max-width: $bp-max-md)
@@ -114,4 +120,6 @@ export default {
   overflow: visible
 .lista-ul--color li > i:first-of-type
   color: #3CA8F4
+.tarjeta-numerada__numero
+  color: $color-sistema-texto !important
 </style>

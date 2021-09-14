@@ -18,9 +18,10 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
-    .bloque-texto-b.color-acento-contenido.p-5
-      .bloque-texto-b__texto.justify-content-center.d-flex
-        p.mb-0.m-auto La identificación espacial en el mapa mediante el uso de coordenadas, permite ubicar un punto en el mapa de acuerdo con su ubicación geográfica y extensión específica que permite que sea situado sobre la superficie de la Tierra.
+    .cajon-fondo.color-acento-contenido.p-5.d-flex
+      .bloque-texto-b__texto.p-4.d-flex
+        .cajon-b.color-secundario.abajo-derecha.p-3.mb-5
+          p.h1.fw-normal.mb-0 La identificación espacial en el mapa mediante el uso de coordenadas, permite ubicar un punto en el mapa de acuerdo con su ubicación geográfica y extensión específica que permite que sea situado sobre la superficie de la Tierra.
 
 </template>
 
@@ -42,26 +43,30 @@ export default {
 </script>
 
 <style lang="sass" scoped>
-.bloque-texto-b
-  background-image: url('../assets/curso/img34.png')
+.cajon-fondo
+  position: relative
+  &:after
+    content: ''
+    position: absolute
+    bottom: 0
+    right: 0
+    width: 23px
+    height: 23px
+    background-color: $color-secundario
+    transform: translateY(-50px) translateX(-50px)
+  min-height: 300px
+  background-image: url('../assets/curso/img34.svg')
   background-size: cover
   background-position: center
   background-repeat: no-repeat
+  align-items: center
   .bloque-texto-b__texto
-    margin-left: 160px
-    width: 70%
-    @media (max-width: $bp-max-md)
-      margin-left: 70px
-    @media (max-width: $bp-max-sm)
-      margin-left: 50px
-.bloque-texto-b:before
-    content: ''
-    display: block
-    position: absolute
-    top: 74%
-    bottom: 0
-    left: 70%
-    right: 0
+    justify-content: flex-end
+    @media (min-width: $bp-min-lg)
+      .cajon-b
+        width: 80%
+
+
     @media (max-width: $bp-max-sm)
       display: none
 </style>

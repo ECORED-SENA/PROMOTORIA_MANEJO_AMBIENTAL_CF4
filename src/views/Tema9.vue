@@ -15,22 +15,22 @@
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img52.svg' alt='AvatarTop').mb-3
-                h4.text-center Geoposicionador
+                h4.text-center Geoposicionador.
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img53.svg' alt='AvatarTop').mb-3
-                h4.text-center Altímetro
+                h4.text-center Altímetro.
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img54.svg' alt='AvatarTop').mb-3
-                h5.text-center Equipos portátiles para mediciones de temperatura, pH y conductividad eléctrica
+                h5.text-center Equipos portátiles para mediciones de temperatura, pH y conductividad eléctrica.
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img55.svg' alt='AvatarTop').mb-3
-                h4.text-center Muestreador (botella Van Dorn, Kemmerer o balde)
+                h4.text-center Muestreador (botella Van Dorn, Kemmerer o balde).
         .row
           .col-lg-3
             .tarjetas-imagen.p-5
@@ -51,7 +51,7 @@
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img59.svg' alt='AvatarTop').mb-3
-                h4.text-center Cronómetro
+                h4.text-center Cronómetro.
         .row
           .col-lg-3
             .tarjetas-imagen.p-5
@@ -62,44 +62,44 @@
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img61.svg' alt='AvatarTop').mb-3
-                h4.text-center Frasco lavador
+                h4.text-center Frasco lavador.
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img62.svg' alt='AvatarTop').mb-3
-                h5.text-center Toalla de papel absorbente
+                h5.text-center Toalla de papel absorbente.
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img63.svg' alt='AvatarTop').mb-3
-                h4.text-center Cinta pegante y de enmascarar
+                h4.text-center Cinta pegante y de enmascarar.
         .row
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img64.svg' alt='AvatarTop').mb-3
-                h4.text-center Bolsa para basura
+                h4.text-center Bolsa para basura.
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img65.svg' alt='AvatarTop').mb-3
-                h4.text-center Esfero y marcador de tinta indeleble
+                h4.text-center Esfero y marcador de tinta indeleble.
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img66.svg' alt='AvatarTop').mb-3
-                h5.text-center Tabla portapapeles
+                h5.text-center Tabla portapapeles.
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img67.svg' alt='AvatarTop').mb-3
-                h4.text-center Guantes
+                h4.text-center Guantes.
         .row
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img68.svg' alt='AvatarTop').mb-3
-                h4.text-center Agua destilada
+                h4.text-center Agua destilada.
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
@@ -114,18 +114,18 @@
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img71.svg' alt='AvatarTop').mb-3
-                h4.text-center Overol o ropa de trabajo cómoda y que le brinde protección adecuada
+                h4.text-center Overol o ropa de trabajo cómoda y que le brinde protección adecuada.
         .row.justify-content-center
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img72.svg' alt='AvatarTop').mb-3
-                h4.text-center Máscara respiradora con filtros para ácidos y vapores orgánicos
+                h4.text-center Máscara respiradora con filtros para ácidos y vapores orgánicos.
           .col-lg-3
             .tarjetas-imagen.p-5
               .img__contenido
                 img(src='@/assets/curso/img73.svg' alt='AvatarTop').mb-3
-                h4.text-center Botas de caucho
+                h4.text-center Botas de caucho.
     p.mb-5 Los pasos que se describen a continuación pertenecen al procedimiento que se debe tener en cuenta al momento de tomar una muestra de agua residual.
     .row.mb-5.justify-content-center.bg-img.py-5
 

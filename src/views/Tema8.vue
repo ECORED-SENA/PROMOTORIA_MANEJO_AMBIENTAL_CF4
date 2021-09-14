@@ -14,7 +14,7 @@
         .cajon-b.color-primario.abajo-derecha.p-3.mb-5
             h2.h1.mb-0.fw-normal Los equipos satelitales son los instrumentos que se conectan directamente a un satélite, permitiendo posicionar cualquier objeto sobre la Tierra con una precisión de hasta centímetros.
     p.mb-5  En los equipos satelitales se encuentran los sistemas Global Positioning System (GPS) que hacen referencia a un sistema electrónico de información implementado por el ejército de los Estados Unidos desde 1972, que rápidamente y gracias a su utilidad y versatilidad para la ubicación precisa de un punto geográfico, se instaló en el ámbito civil, llegando a ser una de las herramientas más importantes con las que cuenta el ser humano. Los principales tipos de GPS son:
-    SlyderE(indicadores="")
+    SlyderE(indicadores="").mb-5
       .row
         .col-md-4.mb-4.mb-md-0
           h4 Navegadores convencionales
@@ -46,6 +46,12 @@
         .col-md-8
           figure
             img(src='@/assets/curso/img51.jpg', alt='Texto que describa la imagen')
+    p.mb-5 Las señales GPS se propagan a través de partículas cargadas positivamente al pasar por la ionosfera y pierden velocidad al atravesar el vapor de agua en la troposfera, produciendo un efecto similar a un error en la precisión del reloj. Hay varias formas de mitigar este tipo de error, por lo que, se puede esperar que sea el error estándar del día promedio. Esto se llama modelado y puede ser útil, pero aparentemente las condiciones climáticas rara vez coinciden exactamente con los promedios esperados.
+      br
+      br
+      |Los problemas de señal de GPS no se detienen cuando golpea el suelo. La señal puede rebotar varias veces debido a obstáculos locales antes de ser recibida por el receptor. Si el receptor detecta satélites muy juntos en el cielo, los círculos de intersección identificados se cruzarán en un ángulo muy pequeño y esto aumentará el área gris o el margen de error según la posición. Si el receptor recibe satélites muy distantes, los círculos se cruzan en aproximadamente ángulos rectos, minimizando el margen de error. 
+      br
+      |Los datos obtenidos en campo deberán ser concretados en documentos para su análisis y evaluación, allí se realizarán los procedimientos necesarios para hacer los cálculos requeridos en la toma de muestra de agua acorde con los requerimientos necesarios.
 
 
 </template>

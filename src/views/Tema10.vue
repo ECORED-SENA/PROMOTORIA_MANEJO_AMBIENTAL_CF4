@@ -120,5 +120,9 @@ export default {
 
 <style lang="sass" scoped>
 .color-primario-claro
-  background-color: #EDF8E3
+  background-color: #DEF3F0
+.tabs-a
+  .tabs-a__tab
+    line-height: 0 !important
+    padding: 0 !important
 </style>
