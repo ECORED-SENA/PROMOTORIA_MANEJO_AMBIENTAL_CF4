@@ -64,9 +64,12 @@ export default {
     justify-content: flex-end
     @media (min-width: $bp-min-lg)
       .cajon-b
-        width: 80%
+        width: 70%
 
 
     @media (max-width: $bp-max-sm)
       display: none
+.cajon-b.color-secundario:before
+  background-color: #7AE582
+  opacity: 1
 </style>
