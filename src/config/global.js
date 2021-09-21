@@ -152,12 +152,6 @@ export default {
     },
     {
       referencia:
-        'Instituto Geográfico Agustín Codazzi. (2007). Sistema de Posicionamiento Global - GPS.',
-      link:
-        'http://gisweb.ciat.cgiar.org/DAPA/planificacion/GEOMATICA/GPS/GPS_Modulo.pdf',
-    },
-    {
-      referencia:
         'Noticias de Seguridad Informática. (2015). Seguridad de equipos satelitales de navegación y comunicación. ',
       link:
         'https://noticiasseguridad.com/importantes/seguridad-de-equipos-satelitales-de-navegacion-y-comunicacion/ ',
@@ -213,14 +207,6 @@ export default {
       tipo: 'Sitio Web',
       link:
         'https://noticiasseguridad.com/importantes/seguridad-de-equipos-satelitales-de-navegacion-y-comunicacion/',
-    },
-    {
-      texto:
-        'Instituto Geográfico Agustín Codazzi. (2007). Sistema de posicionamiento global - GPS. ',
-      tipo: 'PDF',
-      // * ENLACE ROTO *//
-      link:
-        'http://gisweb.ciat.cgiar.org/DAPA/planificacion/GEOMATICA/GPS/GPS_Modulo.pdf',
     },
     {
       texto:
