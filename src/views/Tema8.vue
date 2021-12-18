@@ -42,7 +42,7 @@
       .row
         .col-md-4.mb-4.mb-md-0
           h4 Receptores geodésicos de doble frecuencia
-          p Con este tipo de dispositivo, el posprocesamiento del puede alcanzar una precisión subcentimétrica de hasta 10 km y una precisión submétrica de hasta 500 km. Además de la tecnología de posprocesamiento, también se utilizan receptores de doble frecuencia con corrección en tiempo real.
+          p Con este tipo de dispositivo, el posprocesamiento puede alcanzar una precisión subcentimétrica de hasta 10 km y una precisión submétrica de hasta 500 km. Además de la tecnología de posprocesamiento, también se utilizan receptores de doble frecuencia con corrección en tiempo real.
         .col-md-8
           figure
             img(src='@/assets/curso/img51.jpg', alt='Texto que describa la imagen')

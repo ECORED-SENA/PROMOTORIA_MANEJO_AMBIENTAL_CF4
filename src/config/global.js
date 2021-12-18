@@ -141,12 +141,12 @@ export default {
   referencias: [
     {
       referencia:
-        'Eijkelkamp Agrisearch. (2021). Catálogo de equipos para gestión de las aguas.',
+        'Eijkelkamp Agrisearch. (2021). Catálogo de equipos para gestión de las aguas. ',
       link:
         'https://www.eijkelkamp.com/files/media/downloads/p055scatlogodeequiposparagestindelasaguas.pdf',
     },
     {
-      referencia: 'Ideam, Invemar. (2017). Protocolo monitoreo de agua.',
+      referencia: 'Ideam, Invemar. (2017). Protocolo monitoreo de agua. ',
       link:
         'http://documentacion.ideam.gov.co/openbiblio/bvirtual/023773/PROTOCOLO_MONITOREO_AGUA_IDEAM.pdf ',
     },
@@ -158,7 +158,7 @@ export default {
     },
     {
       referencia:
-        'Ortiz. J., (2007). Manual de instrucciones para la toma, preservación y transporte de muestras de agua de consumo humano para análisis de laboratorio.',
+        'Ortiz. J., (2007). Manual de instrucciones para la toma, preservación y transporte de muestras de agua de consumo humano para análisis de laboratorio. ',
       link:
         'https://www.academia.edu/24503971/Manual_intrucciones_toma_preservaci%C3%B3n_y_transporte_de_muestras_agua ',
     },
