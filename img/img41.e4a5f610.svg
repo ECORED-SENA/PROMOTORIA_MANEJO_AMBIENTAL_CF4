@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_32598" data-name="Rectángulo 32598" width="83" height="83" transform="translate(5019 -10051)" fill="#fde947" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_87490" data-name="Grupo 87490" transform="translate(-5000.063 10070.029)">
+    <ellipse id="Elipse_4276" data-name="Elipse 4276" cx="60" cy="60" rx="60" ry="60" transform="translate(5120.063 -9950.029) rotate(180)" fill="#fff"/>
+    <g id="Enmascarar_grupo_48" data-name="Enmascarar grupo 48" clip-path="url(#clip-path)">
+      <g id="vaso-de-agua" transform="translate(5019 -10051)">
+        <path id="Trazado_143969" data-name="Trazado 143969" d="M59.887,81.782H23.112L14.341,1.218H68.658Z" fill="#eaeff9"/>
+        <path id="Trazado_143970" data-name="Trazado 143970" d="M65.735,1.218,56.964,81.782h2.924L68.658,1.218Z" fill="#dbe0ea"/>
+        <path id="Trazado_143971" data-name="Trazado 143971" d="M61.331,68.523l4.951-45.479H16.717l4.951,45.479a6.5,6.5,0,0,0,6.459,5.794H54.872A6.5,6.5,0,0,0,61.331,68.523Z" fill="#5ce9ff"/>
+        <path id="Trazado_143972" data-name="Trazado 143972" d="M63.359,23.043,58.407,68.523a6.5,6.5,0,0,1-6.459,5.794h2.924a6.5,6.5,0,0,0,6.459-5.794l4.951-45.479Z" fill="#00e3f9"/>
+        <path id="Trazado_143973" data-name="Trazado 143973" d="M69.565.4a1.218,1.218,0,0,0-.907-.4H29.2a1.218,1.218,0,0,0,0,2.436H67.3L65.189,21.825H56.821a1.218,1.218,0,1,0,0,2.436h8.1l-4.8,44.13A5.271,5.271,0,0,1,54.872,73.1H28.128a5.271,5.271,0,0,1-5.248-4.707l-4.8-44.13H51.948a1.218,1.218,0,1,0,0-2.436H17.81L15.7,2.436h8.632a1.218,1.218,0,1,0,0-2.436h-9.99A1.231,1.231,0,0,0,13.13,1.35L21.9,81.914A1.218,1.218,0,0,0,23.112,83h9.28a1.218,1.218,0,1,0,0-2.437H24.205l-.716-6.575a7.7,7.7,0,0,0,4.638,1.546H54.872a7.7,7.7,0,0,0,4.638-1.546l-.716,6.575H37.265a1.218,1.218,0,1,0,0,2.437H59.887A1.218,1.218,0,0,0,61.1,81.914L69.869,1.35a1.218,1.218,0,0,0-.3-.945Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

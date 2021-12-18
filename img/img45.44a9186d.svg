@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_32604" data-name="Rectángulo 32604" width="83" height="83" transform="translate(5019 -9286.013)" fill="#fde947" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_87494" data-name="Grupo 87494" transform="translate(-5000.063 9303.2)">
+    <ellipse id="Elipse_4276" data-name="Elipse 4276" cx="60" cy="60" rx="60" ry="60" transform="translate(5120.063 -9183.2) rotate(180)" fill="#fff"/>
+    <g id="Enmascarar_grupo_52" data-name="Enmascarar grupo 52" clip-path="url(#clip-path)">
+      <g id="medidor-de-ph_1_" data-name="medidor-de-ph (1)" transform="translate(5019 -9286.013)">
+        <rect id="Rectángulo_32606" data-name="Rectángulo 32606" width="9.785" height="16.076" transform="translate(36.607 65.614)" fill="#439ee8"/>
+        <rect id="Rectángulo_32607" data-name="Rectángulo 32607" width="3.844" height="16.076" transform="translate(36.607 65.614)" fill="#5293c4"/>
+        <g id="Grupo_86251" data-name="Grupo 86251">
+          <path id="Trazado_143996" data-name="Trazado 143996" d="M21.231,1.31V38.355L33.812,48.839V69.109H49.188V48.839L61.77,38.355V1.31Z" fill="#5cc4e0"/>
+          <path id="Trazado_143997" data-name="Trazado 143997" d="M21.231,1.31V38.355L33.812,48.839V69.109H49.188V48.839L61.77,38.355V1.31Z" fill="#5cc4e0"/>
+        </g>
+        <path id="Trazado_143998" data-name="Trazado 143998" d="M26.123,38.355V1.31H21.231V38.355L33.812,48.839V69.109H38.7V48.839Z" fill="#439ee8"/>
+        <rect id="Rectángulo_32608" data-name="Rectángulo 32608" width="29.356" height="24.463" transform="translate(26.822 7.601)" fill="#e0dddf"/>
+        <rect id="Rectángulo_32609" data-name="Rectángulo 32609" width="26.56" height="21.667" transform="translate(26.822 10.397)" fill="#fff"/>
+        <g id="Grupo_86252" data-name="Grupo 86252">
+          <circle id="Elipse_4298" data-name="Elipse 4298" cx="3.145" cy="3.145" r="3.145" transform="translate(44.995 36.258)" fill="#faec8e"/>
+          <circle id="Elipse_4299" data-name="Elipse 4299" cx="3.145" cy="3.145" r="3.145" transform="translate(31.715 36.258)" fill="#faec8e"/>
+        </g>
+        <g id="Grupo_86253" data-name="Grupo 86253">
+          <path id="Trazado_143999" data-name="Trazado 143999" d="M51.285,11.882a1.31,1.31,0,0,0-1.31,1.31v4.98H44.208v-4.98a1.31,1.31,0,1,0-2.621,0v13.28a1.31,1.31,0,1,0,2.621,0V20.794h5.766v5.679a1.31,1.31,0,1,0,2.621,0V13.193A1.31,1.31,0,0,0,51.285,11.882Z" fill="#ff675c"/>
+          <path id="Trazado_144000" data-name="Trazado 144000" d="M38.7,11.882h-6.99a1.31,1.31,0,0,0-1.31,1.31v13.28a1.31,1.31,0,1,0,2.621,0V20.794H38.7a1.31,1.31,0,0,0,1.31-1.31V13.193A1.31,1.31,0,0,0,38.7,11.882Zm-1.311,6.291H33.025V14.5h4.368Z" fill="#ff675c"/>
+        </g>
+        <path id="Trazado_144001" data-name="Trazado 144001" d="M61.77,0H21.231a1.31,1.31,0,0,0-1.31,1.31v8.737a1.31,1.31,0,0,0,2.621,0V2.621H60.459v35.12L48.714,47.528H34.286L22.541,37.741V15.988a1.31,1.31,0,1,0-2.621,0V38.355a1.311,1.311,0,0,0,.471,1.007L32.5,49.453V69.108a1.31,1.31,0,0,0,1.31,1.31H35.3V81.69A1.31,1.31,0,0,0,36.607,83h9.785a1.31,1.31,0,0,0,1.31-1.31V70.419h1.485a1.31,1.31,0,0,0,1.31-1.31V49.453l12.11-10.091a1.31,1.31,0,0,0,.471-1.007V1.31A1.31,1.31,0,0,0,61.77,0ZM45.082,80.379H37.918v-9.96h7.164ZM35.122,67.8V50.15H47.878V67.8Z"/>
+        <path id="Trazado_144002" data-name="Trazado 144002" d="M57.488,32.064V7.6a1.31,1.31,0,0,0-1.31-1.31H26.822a1.31,1.31,0,0,0-1.31,1.31V32.064a1.31,1.31,0,0,0,1.31,1.31H56.178A1.31,1.31,0,0,0,57.488,32.064Zm-2.621-1.311H28.133V8.912H54.867V30.754Z"/>
+        <path id="Trazado_144003" data-name="Trazado 144003" d="M30.4,39.4a4.456,4.456,0,1,0,4.456-4.456A4.461,4.461,0,0,0,30.4,39.4Zm6.291,0a1.835,1.835,0,1,1-1.835-1.835A1.837,1.837,0,0,1,36.695,39.4Z"/>
+        <path id="Trazado_144004" data-name="Trazado 144004" d="M43.684,39.4a4.456,4.456,0,1,0,4.456-4.456A4.461,4.461,0,0,0,43.684,39.4Zm6.291,0a1.835,1.835,0,1,1-1.835-1.835A1.837,1.837,0,0,1,49.975,39.4Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
